@@ -1,0 +1,7 @@
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.csproj.AssemblyReference.cache
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.AssemblyInfoInputs.cache
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.AssemblyInfo.cs
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\SENAI\Atividades\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos, teste no navegador\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
